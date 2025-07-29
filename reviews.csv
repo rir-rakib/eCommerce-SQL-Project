@@ -1,0 +1,16 @@
+review_id,customer_id,product_id,rating,review_text
+1,6,5,2,Average quality
+2,2,5,3,Good product
+3,2,9,2,Good product
+4,5,10,1,Average quality
+5,9,2,5,Average quality
+6,1,1,5,Good product
+7,9,4,1,Average quality
+8,9,10,3,Good product
+9,1,8,1,Good product
+10,7,3,1,Good product
+11,6,7,5,Average quality
+12,1,8,4,Average quality
+13,1,8,5,Good product
+14,8,7,5,Good product
+15,3,5,2,Average quality

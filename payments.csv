@@ -1,0 +1,21 @@
+payment_id,order_id,amount,payment_method
+1,1,2368,Cash
+2,2,1042,Mobile Banking
+3,3,2510,Mobile Banking
+4,4,1002,Cash
+5,5,129,Credit Card
+6,6,390,Cash
+7,7,2999,Cash
+8,8,2684,Credit Card
+9,9,341,Cash
+10,10,1037,Cash
+11,11,376,Cash
+12,12,228,Mobile Banking
+13,13,1453,Credit Card
+14,14,390,Cash
+15,15,2205,Cash
+16,16,1074,Credit Card
+17,17,1240,Mobile Banking
+18,18,2840,Mobile Banking
+19,19,2088,Credit Card
+20,20,977,Credit Card
