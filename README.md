@@ -93,7 +93,7 @@ Use `queries.sql` or run the 15 SQL queries manually to test your understanding.
 ## 👨‍💻 Author
 
 **Rakibul Islam**  
-[GitHub Profile](https://github.com/yourusername)
+[GitHub Profile](https://github.com/rir-rakib)
 
 ---
 
